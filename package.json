@@ -1,0 +1,15 @@
+{
+  "name": "spellcheck",
+  "version": "1.0.0",
+  "description": "Spell checker",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mone't Fulgham",
+  "license": "ISC",
+  "type": "module",
+  "bin": {
+    "spellchecker": "./bin/index.js"
+  }
+}
